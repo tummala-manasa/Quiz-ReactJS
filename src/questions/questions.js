@@ -16,7 +16,6 @@ export class Questions extends React.Component {
   handleClick = (correctAnswer) => {
     // check if correct
     let selectedElement = document.querySelector('input[name = choices]:checked');
-    debugger;
     if (!selectedElement) {
       alert('Please select something');
       return;
