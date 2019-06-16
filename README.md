@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Quiz-ReactJS
+### Quiz-ReactJS
 A Quiz app with Raect JS and React Router
+
+### Run
 
 In the project directory, you can run **npm start**
 
